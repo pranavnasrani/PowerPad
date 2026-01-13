@@ -30,4 +30,7 @@ This was not my first time using Fusion, however it was my first time doing PCB 
 ## Case
 ![enter image description here](https://raw.githubusercontent.com/pranavnasrani/PowerPad/refs/heads/master/case.png)
 
+Case files (top and bottom case STEP files) can be found [here](https://github.com/pranavnasrani/PowerPad/tree/master/cad/case%20files)
+
+
  
